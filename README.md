@@ -1,5 +1,7 @@
 # Željeznički promet
 
+Na ovom repozitoriju nalazi se projekt iz kolegija *Uzorci dizajna* na Fakultetu organizacije i informatike.
+
 Ova aplikacija služi za upravljanje željezničkim prometom i omogućuje korisnicima pregled pruga, vlakova, voznog reda, stanica i ostalih povezanih podataka.
 Aplikacija se izvršava u terminalu i omogućuje interaktivno pretraživanje i simulaciju vožnje vlakova.
 
